@@ -4,6 +4,3 @@ def countA(w):
         if w[i] == "a":
             num=num+1
     print(str(num))
-
-
-countA("rat")
