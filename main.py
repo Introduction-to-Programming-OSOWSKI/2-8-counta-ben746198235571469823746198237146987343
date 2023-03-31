@@ -3,4 +3,4 @@ def countA(word):
     for i in range(0,len(word)):
         if word[i] == "a":
             num=num+1
-    return(str(num))
+    return num
